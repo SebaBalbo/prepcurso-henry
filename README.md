@@ -1,2 +1,1 @@
-# prepcurso-henry
-Repositorio prueba modulo 2
+Este archivo es una prueba sobre como crear un repositorio y clonarlo desde github a mi pc
